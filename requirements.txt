@@ -1,19 +1,19 @@
 # Core data processing libraries
-pandas==2.1.4
-numpy==1.26.2
+pandas==2.2.2
+numpy==2.0.0
 
 # Visualization libraries
-plotly==5.17.0
-matplotlib==3.8.2
-seaborn==0.13.0
-folium==0.15.0
+plotly==5.24.1
+matplotlib==3.9.2
+seaborn==0.13.2
+folium==0.17.0
 
 # Web framework for dashboard
-streamlit==1.28.2
-streamlit-folium==0.15.0
+streamlit==1.38.0
+streamlit-folium==0.18.0
 
 # Geographic distance calculations
-haversine==2.8.0
+haversine==2.8.1
 
 # Additional plotly modules (included in plotly)
 # plotly-express (included in plotly)
